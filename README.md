@@ -61,4 +61,5 @@ To ingest news data, a secure connection must be established between **Bing API*
 - Set Root Folder → `Files`.  
 - Specify File Path → Provide only the filename.  
 - Select File Format → `JSON`.
+### Data Transformation 
 
