@@ -57,9 +57,9 @@ To ingest news data, a secure connection must be established between **Bing API*
 - Go to the "Destination" Tab in Copy Data Activity.  
 - Set Data Store Type → `Workspace`.  
 - Select Workspace Data Store Type → `Lakehouse`.  
-- Choose Lakehouse → `bing_lake_db`.  
+- Choose Lakehouse → `DE_BP_P_02_bing_lake_db`.  
 - Set Root Folder → `Files`.  
-- Specify File Path → Provide only the filename.  
+- Specify File Path → `DE_BP_P_02_bing_Data`.  
 - Select File Format → `JSON`.
 ### Data Transformation 
 
